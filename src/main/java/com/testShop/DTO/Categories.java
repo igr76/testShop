@@ -1,0 +1,5 @@
+package com.testShop.DTO;
+
+public enum Categories {
+    SHOES,ACCESSORIE,ELECTRONICS,FURNITURE,PRODUCT,APPLIANCES,HEALTH
+}
